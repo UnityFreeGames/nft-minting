@@ -270,7 +270,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  WHITELIST EVS NFT MINT PRICE: {CONFIG.DISPLAY_COST}{" "}
+                  PRESALE EVS NFT MINT PRICE: {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}
                 </s.TextTitle>
                 <s.SpacerXSmall />

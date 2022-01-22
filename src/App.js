@@ -253,7 +253,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Sold Out
+                  PRESALE SOLD OUT
                 </s.TextTitle>
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
@@ -270,7 +270,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                 SOLD OUT
+                 PRESALE SOLD OUT
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
